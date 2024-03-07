@@ -6,7 +6,7 @@ This repository contains scripts and configuration files to set up a development
 
 I will provide a video walkthrough of these dotfiles here once that video is recorded and published
 
-<!-- [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=ra5kMCXO-6I)
 
 Replace `VIDEO_ID` with your video's ID to embed the walkthrough video here. -->
 
