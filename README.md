@@ -8,8 +8,6 @@ I will provide a video walkthrough of these dotfiles here once that video is rec
 
 [Watch the video](https://www.youtube.com/watch?v=ra5kMCXO-6I)
 
-Replace `VIDEO_ID` with your video's ID to embed the walkthrough video here. -->
-
 ## Overview
 
 The setup includes automated scripts for installing essential software, configuring Bash and Zsh shells, and setting up Sublime Text and Visual Studio Code editors. This guide will help you replicate my development environment on your machine if you desire to do so.
